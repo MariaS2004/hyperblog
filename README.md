@@ -11,4 +11,6 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 * Las personalidades múltiples de Freddy
 * Creado por Plazi team
 * Incluye ejemplos de Windows, Linux y Mac
+* Disponible para todas las edades
+
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
